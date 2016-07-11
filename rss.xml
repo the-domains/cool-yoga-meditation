@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Know your inner self and see the universe!]]></title>
         <description><![CDATA[Know your inner self and see the universe!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cool-yoga-meditation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 15:45:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 16:03:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cool-yoga-meditation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Charsagua Yoga & Meditation -- "Yoga for Your Life"]]></title>
+            <description><![CDATA[<article><h1>Joe Charsagua Yoga & Meditation -- "Yoga for Your Life"</h1><p>A place for thoughts on Yoga and Meditation and a life journey with them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/784059d2e8c64b00bd439a40bd285e8f/noop.jpg?input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg"></article>]]></description>
+            <link>https://joecharsaguayogameditation.com/</link>
+            <guid isPermaLink="false">3db596e0-7cd1-4dc8-87f2-b0909b0e5b9c</guid>
+            <pubDate>Mon, 11 Jul 2016 16:03:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c31efb5-95a0-46fd-b606-bf387ee386af.jpg">]]></description>
-            <link>undefined19fb1b4d-d9ac-4297-859b-5b372e95ceb9/index.html</link>
+            <link>https://thegrid.ai/cool-yoga-meditation/19fb1b4d-d9ac-4297-859b-5b372e95ceb9/index.html</link>
             <guid isPermaLink="false">19fb1b4d-d9ac-4297-859b-5b372e95ceb9</guid>
             <pubDate>Mon, 11 Jul 2016 15:45:22 GMT</pubDate>
         </item>
