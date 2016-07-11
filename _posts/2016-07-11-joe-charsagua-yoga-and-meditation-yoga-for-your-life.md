@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://joecharsaguayogameditation.com/'
 title: Joe Charsagua Yoga & Meditation -- "Yoga for Your Life"
-datePublished: '2016-07-11T16:03:33.569Z'
-dateModified: '2016-07-11T16:03:15.838Z'
-starred: false
+datePublished: '2016-07-11T16:04:12.667Z'
+dateModified: '2016-07-11T16:04:12.426Z'
 sourcePath: _posts/2016-07-11-joe-charsagua-yoga-and-meditation-yoga-for-your-life.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
