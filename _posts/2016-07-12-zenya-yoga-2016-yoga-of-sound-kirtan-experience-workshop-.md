@@ -21,10 +21,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/playlist?list=PL_14ZdajrFOtvbvbs0LufZMxwWumXiX_F'
 title: 'Zenya Yoga 2016 Yoga of Sound: Kirtan Experience Workshop - YouTube'
-datePublished: '2016-07-12T02:41:13.507Z'
-dateModified: '2016-07-12T02:40:06.733Z'
-starred: false
+datePublished: '2016-07-12T02:42:16.547Z'
+dateModified: '2016-07-12T02:42:16.329Z'
 sourcePath: _posts/2016-07-12-zenya-yoga-2016-yoga-of-sound-kirtan-experience-workshop-.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
