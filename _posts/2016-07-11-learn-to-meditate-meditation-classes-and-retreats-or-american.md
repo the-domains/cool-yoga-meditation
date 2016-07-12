@@ -30,11 +30,11 @@ isBasedOnUrl: 'http://americanmeditationsociety.org/'
 title: >-
   Learn to Meditate - Meditation Classes & Retreats | American Meditation
   Society
-datePublished: '2016-07-11T16:03:41.084Z'
-dateModified: '2016-07-11T15:43:47.614Z'
-starred: false
+datePublished: '2016-07-12T02:42:35.681Z'
+dateModified: '2016-07-12T02:42:35.433Z'
 sourcePath: >-
   _posts/2016-07-11-learn-to-meditate-meditation-classes-and-retreats-or-american.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
